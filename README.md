@@ -16,6 +16,51 @@
 
 </div>
 
+---
+
+## About Me / Sobre mim
+
+• I'm **Thiago Maranhão**, a passionate **Computer Science student at UNIFOR** focused on **front-end development** and modern web interfaces.  
+• I’m looking for an opportunity to **apply my knowledge in real projects**, grow technically and contribute to impactful solutions.  
+
+---
+
+##  Languages and Technologies
+
+
+**Frontend:**  
+React · JavaScript · TypeScript · Tailwind CSS · HTML5 · CSS3  
+
+**Backend:**  
+Node.js · Express · MongoDB  
+
+**Ferramentas:**  
+Git · GitHub · VS Code · Figma · Canva  
+
+---
+
+<div align="center">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ThiagoMaranhao&show_icons=true&theme=tokyonight&bg_color=0A2540&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoMaranhao&layout=compact&theme=tokyonight&bg_color=0A2540&hide_border=true" />
+</div>
+
+---
 <!--
 **ThiagoMaranhao99/ThiagoMaranhao99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
