@@ -1,4 +1,5 @@
-## Thiago Maranhão
+<h1 align="center">Thiago Maranhão 👨‍💻</h1>
+<h3 align="center">Front-End Developer | React | Node.js | Tailwind | TypeScript</h3>
 
 
 
