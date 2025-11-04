@@ -34,7 +34,7 @@ React · JavaScript · TypeScript · Tailwind CSS · HTML5 · CSS3
 **Backend:**  
 Node.js · Express · MongoDB  
 
-**Ferramentas:**  
+**Tools:**  
 Git · GitHub · VS Code · Figma · Canva  
 
 ---
@@ -53,7 +53,7 @@ Git · GitHub · VS Code · Figma · Canva
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ThiagoMaranhao&show_icons=true&theme=tokyonight&bg_color=0A2540&hide_border=true" />
