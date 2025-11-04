@@ -1,5 +1,8 @@
-<h1 align="center">Thiago Maranhão 👨‍💻</h1>
+<h1 align="center">Thiago Maranhão</h1>
 <h3 align="center">Front-End Developer | React | Node.js | Tailwind | TypeScript</h3>
+<p>
+  Looking for an <strong>opportunity to apply my knowledge.</strong>
+</p>
 
 
 
